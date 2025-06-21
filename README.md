@@ -4,6 +4,7 @@ Group4
 2- Muhammad Najib Bin Mohd Aziz 2317097
 
 Project Title: UniThrift – Role-Based Thrift Marketplace for IIUM Students
+
 📄 Project Description
 UniThrift is a Laravel-based web application that allows IIUM students to buy and sell pre-loved items in a secure and organized platform. The system supports role-based access where different users (Admin, Seller, Customer) see different dashboard interfaces upon login. This project demonstrates Laravel authentication, session handling, role-based routing, and CRUD functionality for marketplace items.
 
@@ -100,5 +101,5 @@ Frontend: Tailwind CSS
 
 DB: MySQL via XAMPP
 
-Here's the link since the file size exceed 25kb: 
-https://drive.google.com/drive/folders/1RHSiswibotfTeeSWc51yyrCOPkCE8TJh?usp=sharing
+Here's the gdrive file download link since the file size exceed 25kb: 
+https://drive.google.com/drive/folders/1S_PG5piFrNM5tltYxSh2gf7lOe5lJgqm?usp=sharing
