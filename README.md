@@ -99,3 +99,6 @@ Auth: Laravel Breeze (customized)
 Frontend: Tailwind CSS
 
 DB: MySQL via XAMPP
+
+Here's the link since the file size exceed 25kb: 
+https://drive.google.com/drive/folders/1RHSiswibotfTeeSWc51yyrCOPkCE8TJh?usp=sharing
